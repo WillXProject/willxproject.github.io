@@ -1,1 +1,56 @@
-Verifying myself: I am willxproject on Keybase.io. IpPTZZ-0A5zzcFgB_LEgK0HF8KhTdkeXOJiU / https://keybase.io/willxproject/sigs/IpPTZZ-0A5zzcFgB_LEgK0HF8KhTdkeXOJiU
+==================================================================
+https://keybase.io/willxproject
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://willxproject.github.io
+  * I am willxproject (https://keybase.io/willxproject) on keybase.
+  * I have a public key ASARIZpsKNpJHM4K2UVky2bQ7Jhwz659bQLQOWBMRJhwRgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012011219a6c28da491cce0ad94564cb66d0ec9870cfae7d6d02d039604c449870460a",
+      "host": "keybase.io",
+      "kid": "012011219a6c28da491cce0ad94564cb66d0ec9870cfae7d6d02d039604c449870460a",
+      "uid": "67474bd909c2b9146a2e4ba99f12b019",
+      "username": "willxproject"
+    },
+    "merkle_root": {
+      "ctime": 1641593906,
+      "hash": "31276b5dbf77af5736bde311b944afd3154dcc06c953d3d44372726e345b54d3cafdd8fe05539968baac39f65d488a344dd915d04a2b602df4495248fb176cd2",
+      "hash_meta": "cc5b9a5814d2cadf0fc1c05bf667d2f42ae84fa76120e840298a759abc87da7d",
+      "seqno": 21585232
+    },
+    "service": {
+      "entropy": "LSlxo/GRcsw8ipnT1v3S8WDC",
+      "hostname": "willxproject.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.0"
+  },
+  "ctime": 1641594029,
+  "expire_in": 504576000,
+  "prev": "0e29ef8cb6103e6d06b2755fd8b9b495567ea7180211b949106d32dfbcb12ec3",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgESGabCjaSRzOCtlFZMtm0OyYcM+ufW0C0DlgTESYcEYKp3BheWxvYWTESpcCB8QgDinvjLYQPm0GsnVf2Lm0lVZ+pxgCEblJEG0y37yxLsPEIH2Hhv1YV29iNt7GE0OvQJEfAdjxzOq06TNLESNfQqTAAgHCo3NpZ8RAPd1MOiKHl7P61wNNcIu3jdgfYRpN0hGkCmIJOOuk49Go7oezQVrIdZxa36DNsm8UI7dfML0bC4R3wL87YlGLB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIiGjfcCXdNsZTZfudoC4t5v6zDRDFRiA+lDdCUKhPybo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/willxproject
+
+==================================================================
